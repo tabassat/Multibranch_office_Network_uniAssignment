@@ -3,7 +3,7 @@
 ## Overview
 This project implements a multibranch office network configuration and management system as part of a university assignment.
 
-![Project Screenshot](images.png)
+![Project Screenshot](./images.png)
 
 ## Features
 - Network architecture for multiple office branches
