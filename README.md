@@ -3,6 +3,8 @@
 ## Overview
 This project implements a multibranch office network configuration and management system as part of a university assignment.
 
+![Project Screenshot](images.png)
+
 ## Features
 - Network architecture for multiple office branches
 - Configuration management
@@ -18,7 +20,7 @@ Multibranch_office_Network_uniAssignment/
 ## Getting Started
 
 ### Prerequisites
-- [List any required software, tools, or dependencies]
+- Cisco Packet Tracer
 
 ### Installation
 1. Clone the repository
@@ -31,8 +33,7 @@ git clone https://github.com/tabassat/Multibranch_office_Network_uniAssignment.g
 cd Multibranch_office_Network_uniAssignment
 ```
 
-### Usage
-[Add instructions on how to use this project]
+
 
 ## Documentation
 For more detailed information, refer to the project documentation.
@@ -40,8 +41,7 @@ For more detailed information, refer to the project documentation.
 ## Author
 tabassat
 
-## License
-[Specify the license if applicable]
+
 
 ## Notes
 This is a university assignment project.
